@@ -29,7 +29,7 @@ out/
 application.properties
 application-local.properties
 application-*.properties
-!application-example.properties
+!application-sample.properties
 
 # OS-specific files
 .DS_Store
