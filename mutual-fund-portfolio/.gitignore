@@ -1,0 +1,43 @@
+# Build output
+/target/
+build/
+out/
+
+# IDE and editor settings
+/.idea/
+/.vscode/
+*.iml
+*.ipr
+*.iws
+
+# Eclipse / Java metadata
+/.metadata/
+/metadata/
+/.settings/
+/bin/
+/.mvn/
+
+# Logs and temporary files
+/logs/
+*.log
+*.tmp
+*.swp
+
+# Local environment and secrets
+.env
+.env.*
+application.properties
+application-local.properties
+application-*.properties
+!application-example.properties
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Keep these folders out of the repo even if nested
+mutual-fund-portfolio/.metadata/
+mutual-fund-portfolio/.mvn/
+mutual-fund-portfolio/.settings/
+mutual-fund-portfolio/logs/
+mutual-fund-portfolio/bin/
