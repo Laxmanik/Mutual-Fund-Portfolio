@@ -150,8 +150,5 @@ server.port=8080  # Or any available port
 4. Push to branch: `git push origin feature/YourFeature`
 5. Open a Pull Request
 
-## License
-This project is part of the CH_2023_Java_Team1 initiative. All rights reserved.
-
 ## Support
 For issues or questions, please open an issue on GitHub or contact the development team.
